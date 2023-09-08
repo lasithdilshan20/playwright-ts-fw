@@ -1,0 +1,21 @@
+{
+  "name": "playwright-ts-fw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lasithdilshan20/playwright-ts-fw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lasithdilshan20/playwright-ts-fw/issues"
+  },
+  "homepage": "https://github.com/lasithdilshan20/playwright-ts-fw#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.37.1"
+  }
+}
